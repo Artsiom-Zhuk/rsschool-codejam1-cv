@@ -18,3 +18,18 @@ footer {
 	background-color: LightGray;
 	height: 8vh;
 }
+
+.containerInHeader {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 1024px;
+	height: 10vh;
+}
+
+#textHeader {
+	display: inline-block;
+	padding-left: 800px;
+	padding-top: 20px;
+	color:maroon;
+}
