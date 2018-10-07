@@ -99,3 +99,24 @@ p {
 .yellowStar {
 	color: gold;
 }
+
+.containerInFooter {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 1024px;
+	height: 8vh;
+	background-color: white;
+}
+
+
+.icon {
+	display: inline;
+	margin-left: 17%;
+	padding-top: 20px;
+}
+
+#band {
+	background-color: LightGray;
+	height: 2vh;
+}
