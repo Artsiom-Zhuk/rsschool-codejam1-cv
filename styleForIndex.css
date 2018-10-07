@@ -1,0 +1,122 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: LightGray;
+	height:10vh;
+
+}
+
+main {
+	background-color: LightGray;
+	height: 80vh;
+}
+
+footer {
+	background-color: LightGray;
+	height: 8vh;
+}
+
+.containerInHeader {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	height: 10vh;
+}
+
+.textHeader {
+	display: inline-block;
+	padding-left: 800px;
+	padding-top: 20px;
+	color:maroon;
+}
+
+.containerInMain {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: white;
+	width: 1024px;
+	height: 80vh;
+}
+
+
+.photo {
+	padding-left: 5px;
+}
+
+.image {
+	display: inline-block;
+	margin-left: 1%;
+	margin-top: 20px;
+	width: 25%;
+	height: 300px;
+	vertical-align: top;
+}
+
+.grid {
+	border: 2px solid black;
+	display: inline-block;
+	margin-left: 3%;
+	margin-top:20px;
+	width: 68%;
+	height: 300px;
+	vertical-align: top;
+} 
+
+.info {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 1%;
+	width: 97%;
+	height: 285px; 
+	vertical-align: top;
+}
+
+table {
+	width: 90%;
+	margin-top: 45px;
+	margin-left: 5%;
+}
+
+tr {
+	height: 40px;
+}
+
+td {
+	width: 20%;
+}
+
+p {
+	font-size: 20px;
+	color: CornflowerBlue;
+	font-style: cursive;
+}
+
+.yellowStar {
+	color: gold;
+}
+
+.containerInFooter {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 1024px;
+	height: 8vh;
+	background-color: white;
+}
+
+
+.icon {
+	display: inline;
+	margin-left: 17%;
+	padding-top: 20px;
+}
+
+.band {
+	background-color: LightGray;
+	height: 2vh;
+}
