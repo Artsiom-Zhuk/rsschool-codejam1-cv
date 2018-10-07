@@ -21,8 +21,8 @@ footer {
 
 .containerInHeader {
 	display: block;
-    margin-left: auto;
-    margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 	width: 1024px;
 	height: 10vh;
 }
@@ -32,4 +32,70 @@ footer {
 	padding-left: 800px;
 	padding-top: 20px;
 	color:maroon;
+}
+
+.containerInMain {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: white;
+	width: 1024px;
+	height: 80vh;
+}
+
+
+#photo {
+	padding-left: 5px;
+}
+
+.image {
+	display: inline-block;
+	margin-left: 1%;
+	margin-top: 20px;
+	width: 25%;
+	height: 300px;
+	vertical-align: top;
+}
+
+.grid {
+	border: 2px solid black;
+	display: inline-block;
+	margin-left: 3%;
+	margin-top:20px;
+	width: 68%;
+	height: 300px;
+	vertical-align: top;
+} 
+
+.info {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 1%;
+	width: 97%;
+	height: 285px; 
+	vertical-align: top;
+}
+
+table {
+	width: 90%;
+	margin-top: 45px;
+	margin-left: 5%;
+}
+
+tr {
+	height: 40px;
+}
+
+td {
+	width: 20%;
+}
+
+p {
+	font-size: 20px;
+	color: CornflowerBlue;
+	font-style: cursive;
+}
+
+.yellowStar {
+	color: gold;
 }
