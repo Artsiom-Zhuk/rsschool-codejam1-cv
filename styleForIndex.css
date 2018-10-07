@@ -27,7 +27,7 @@ footer {
 	height: 10vh;
 }
 
-#textHeader {
+.textHeader {
 	display: inline-block;
 	padding-left: 800px;
 	padding-top: 20px;
@@ -44,7 +44,7 @@ footer {
 }
 
 
-#photo {
+.photo {
 	padding-left: 5px;
 }
 
@@ -116,7 +116,7 @@ p {
 	padding-top: 20px;
 }
 
-#band {
+.band {
 	background-color: LightGray;
 	height: 2vh;
 }
