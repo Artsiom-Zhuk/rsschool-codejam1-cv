@@ -2,3 +2,19 @@
 	margin: 0;
 	padding: 0;
 }
+
+header {
+	background-color: LightGray;
+	height:10vh;
+
+}
+
+main {
+	background-color: LightGray;
+	height: 80vh;
+}
+
+footer {
+	background-color: LightGray;
+	height: 8vh;
+}
